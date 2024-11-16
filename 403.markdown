@@ -1,0 +1,8 @@
+---
+title: Forbidden
+layout: default
+---
+{::nomarkdown}
+<h1>Forbidden</h1>
+<p>Sorry, but you do not have permission to access this page.</p>
+{:/nomarkdown}

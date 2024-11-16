@@ -1,0 +1,6 @@
+# Geo feed for K-Net (AS204141) in RFC 8805 format
+# https://tools.ietf.org/html/rfc8805
+# address,country,region,city,postal
+82.211.192.0/19,DK,DK-84,,
+185.140.0.0/22,DK,DK-84,,
+2a03:19c0::/32,DK,DK-84,,

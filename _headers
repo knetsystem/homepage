@@ -1,2 +1,2 @@
 /*
-  Strict-Transport-Security: max-age=63072000; includeSubDomains;
+  Strict-Transport-Security: "max-age=63072000; includeSubDomains";

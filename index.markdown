@@ -21,7 +21,7 @@ layout: default
 
         <h2>Announcements</h2>
 
-    <h3>11 November 2024 11:50</h3>
+    <h3>16 November 2024 11:50</h3>
     <p>Notice of service disruptions due to general system maintenance during the following date and time:</p>
     <p><b>Saturday, February 15, 2025, from 11:00 AM CET to 5:00 PM CET</b></p>
     <p>What will be affected by the general system maintenance?</p>

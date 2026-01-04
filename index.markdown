@@ -20,6 +20,22 @@ layout: default
 
 
         <h2>Announcements</h2>
+
+    <h3>05 January 2026 00:10</h3>
+    <p>Notice of service disruptions due to general system maintenance during the following date and time:</p>
+    <p><b>Saturday, January 17, 2026, from 11:00 AM CET to 6:00 PM CET</b></p>
+    <p>What will be affected by the general system maintenance?</p>
+    <ul>
+      <li>Internet access may be DISCONNECTED for extended periods.</li>
+      <li>All K-Net systems may be restarted, resulting in downtime. This includes, but is not limited to:</li>
+      <ul>
+          <li>user.k-net.dk: You will not be able to modify open ports in the K-Net firewall during this time.</li>
+          <li>K-Net WiFi: There may be several short dropouts during the maintenance.</li>
+          <li>Internal systems at your dorm: These may also be affected. Please contact your local networking group for further information.</li>
+      </ul>
+    </ul>
+    <p>As always, we will attempt to minimize downtime. We apologize for any inconvenience this may cause.</p>
+    <p>Andreas Vind Jensen</p>
     
     <h3>31 August 2025 16:07</h3>
     <p>Notice of service disruptions due to general system maintenance during the following date and time:</p>

@@ -23,7 +23,7 @@ layout: default
 
     <h3>15 February 2026 19:16</h3>
     <p>Notice of service disruptions due to general system maintenance during the following date and time:</p>
-    <p><b>Saturday, February 15, 2026, from 11:30 AM CET to 6:00 PM CET</b></p>
+    <p><b>Saturday, February 28, 2026, from 11:30 AM CET to 6:00 PM CET</b></p>
     <p>What will be affected by the general system maintenance?</p>
     <ul>
       <li>Internet access may be DISCONNECTED for extended periods.</li>

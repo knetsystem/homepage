@@ -21,6 +21,27 @@ layout: default
 
         <h2>Announcements</h2>
 
+    <h3>21 June 2026 13:30</h3>
+    <p><b>Notice of service disruption: Hardware and Infrastructure Upgrade</b></p>
+    <p>Date & Time: Sunday, July 12, 2026, starting at 11:30 AM CEST</p>
+    <p>Expected completion: 4:00 PM CEST | Service window extends until 7:00 PM CEST</p>
+
+    <p>Please be advised that we are moving away from very old hardware and infrastructure during the window above.</p>
+    
+    <p><b>Service Impacts During Maintenance Window</b></p>
+    <ul>
+      <li><b>Internet access:</b> connections will be down for extended periods.</li>
+      <li><b>K-Net WiFi:</b> After the move is complete, you will need to restart your router or device to receive a new IP address.</li>
+      <li><b>Action Required:</b> Service will experience downtime.</li>
+      <li><b>user.k-net.dk:</b> You will not be able to modify open ports in the K-Net firewall during the maintenance window.</li>
+      <li><b>Dorms on Legacy Systems:</b> Dorms not already on the new system should be aware that connectivity problems may occur.</li>
+      <li><b>Internal Dorm Systems:</b> These may experience temporary disruptions during the maintenance window.</li>
+    </ul>
+    
+    <p>Work begins at 11:30 AM CEST. We expect to be done by 4:00 PM CEST, though the full service window runs until 7:00 PM CEST to allow time for any unexpected issues. If you are still experiencing problems after 4:00 PM CEST, please contact your local network group or visit k-net.dk/support for assistance.</p>
+    <p>As always, we will work as quickly as possible to minimize downtime. We apologize for any inconvenience this may cause.</p>
+    <p>Andreas Vind Jensen</p>
+
     <h3>19 May 2026 19:03</h3>
     <p>Notice of service disruptions due to updating the kernel on our router during the following date and time:</p>
     <p><b>Sunday, May 24, 2026, from 12:00 AM CET to 2:00 PM CET</b></p>

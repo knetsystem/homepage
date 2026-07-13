@@ -17,7 +17,7 @@ layout: default
     <b>Phase 2 authentication</b>: MSCHAPv2<br>
     <b>CA certificate</b>: Use system certificate or Do not use (not safe) or Download yourself; We base our trust on Let's Encrypt, download their CA <a href="https://letsencrypt.org/certificates/" target="_blank">here</a>.<br>
     <b>Online certificate status</b>: Do not verify<br>
-    <b>Domain</b>: arthur.k-net.dk<br>
+    <b>Domain</b>: wifi.k-net.dk<br>
     <b>Identity</b>: [Your username, usually an e-mail address]<br>
     <b>Anonymous identity</b>: [Do not fill, leave field blank]<br>
     <b>Password</b>: [Your password]<br>

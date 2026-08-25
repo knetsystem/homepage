@@ -16,7 +16,7 @@ layout: default
 	<li>All activity disrupting the service.</li>
 </ul>
 <h1>Originating from K-Net</h1>
-<p>If you witness any kind of disruptive behaviour originating from <strong>82.211.192.0/19</strong> we would like to know!
+<p>If you witness any kind of disruptive behaviour originating from <strong>82.211.192.0/19</strong>, <strong>185.140.0.0/22</strong>, or <strong>2A03:19C0::/32</strong> we would like to know!
 Please contact us at <strong>abuse (at) k-net.dk</strong> and describe what kind of problem you are experincing, the
 time/date (ISO 8601) and what IP(s) were involved.</p>
 <div class="alert alert-info">

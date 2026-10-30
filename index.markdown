@@ -22,7 +22,7 @@ layout: default
         <h2>Announcements</h2>
 
     <h3>30 October 2026 15:37</h3>
-    <p><b>Notice of Service Disruption: Kernel Upgrade</b></p>
+    <p><b>Notice of Service Disruption: Security Upgrade</b></p>
     <p>Date & Time: Saturday, October 31, 2026, starting at 12:00 AM CET</p>
     <p>Expected completion: 1:00 PM CET</p>
 

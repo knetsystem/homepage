@@ -21,6 +21,24 @@ layout: default
 
         <h2>Announcements</h2>
 
+    <h3>30 October 2026 15:37</h3>
+    <p><b>Notice of Service Disruption: Kernel Upgrade</b></p>
+    <p>Date & Time: Saturday, October 31, 2026, starting at 12:00 AM CET</p>
+    <p>Expected completion: 1:00 PM CET</p>
+
+    <p>Due to CVE-2026-98432, we have to update the kernel on our router, which will require a restart.</p>
+    
+    <p><b>Service Impacts During Maintenance Window</b></p>
+    <ul>
+      <li><b>Internet Access:</b> Connections will be down for extended periods.</li>
+      <li><b>user.k-net.dk:</b> You will not be able to modify open ports in the K-Net firewall.</li>
+      <li><b>Internal Dorm Systems:</b> These may experience temporary disruptions.</li>
+    </ul>
+    
+    <p>As always, we will work as quickly as possible to minimize downtime. We apologize for any inconvenience this may cause.</p>
+    <p>Best regards,</p>
+    <p>Andreas Vind Jensen</p>
+
     <h3>21 June 2026 13:30</h3>
     <p><b>Notice of service disruption: Hardware and Infrastructure Upgrade</b></p>
     <p>Date & Time: Sunday, July 12, 2026, starting at 11:30 AM CEST</p>

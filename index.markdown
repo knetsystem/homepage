@@ -26,7 +26,7 @@ layout: default
     <p>Date & Time: Saturday, October 31, 2026, starting at 12:00 AM CET</p>
     <p>Expected completion: 1:00 PM CET</p>
 
-    <p>Due to CVE-2026-98432, we have to update the kernel on our router, which will require a restart.</p>
+    <p>Due to security issues, we have to update the kernel on our router, which will require a restart.</p>
     
     <p><b>Service Impacts During Maintenance Window</b></p>
     <ul>
